@@ -17,4 +17,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@main
-      - uses: ordinaryphp/cicd-semver-release@v0.1.0
+      - uses: ordinaryphp/cicd-semver-release@v0.3.0
